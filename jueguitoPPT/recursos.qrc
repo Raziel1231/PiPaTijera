@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>icons8-abajo-100.png</file>
+    <file>icons8-archivo-80.png</file>
+    <file>icons8-pet-rock-96.png</file>
+    <file>icons8-tijeras-96.png</file>
+    <file>icons8-wait-64 (1).png</file>
+  </qresource>
+</RCC>
